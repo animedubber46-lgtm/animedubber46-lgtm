@@ -42,15 +42,15 @@ Focus:
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=animedubber46-lgtm&show_icons=true&theme=tokyonight&hide_border=true">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=animedubber46-lgtm&theme=tokyonight&hide_border=true">
 
 </p>
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animedubber46-lgtm&layout=compact&theme=tokyonight&hide_border=true">
 
 </p>
 
@@ -60,7 +60,7 @@ Focus:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=animedubber46-lgtm&theme=tokyo-night&hide_border=true">
 
 </p>
 
