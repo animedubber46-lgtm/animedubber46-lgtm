@@ -124,11 +124,11 @@ Focus:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/animedubber46-lgtm">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+<a href="tg://openmessage?user_id=8002803133">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram">
 </a>
 
