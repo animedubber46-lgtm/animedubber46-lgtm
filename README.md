@@ -99,12 +99,12 @@ Focus:
 
 ---
 
-# 🏃 Walking Anime
+# ⋆.˚✮🎧✮˚.⋆
 
 <div align="center">
 
 <!-- Replace with your own animated GIF URL -->
-<img src="YOUR_WALKING_ANIME_GIF_URL" width="250" alt="Walking Anime">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRheHg4c3l2cjhvcXpkZnh6a2ZxYjRlNzRwdWFqM3p6OXUzZXQzaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5Hwk29UI7RKDe/giphy.gif" width="250" alt="Walking Anime">
 
 </div>
 
